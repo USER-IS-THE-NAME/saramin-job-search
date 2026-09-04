@@ -2,7 +2,7 @@
 
 사람인(Saramin) 오픈 API를 이용해 신입 채용 공고를 조회하는 개인용 프로젝트입니다.
 
-- 소개 페이지: https://아이디.github.io/job-aggregator/  ← *(실제 GitHub Pages 주소로 교체)*
+- 소개 페이지: https://user-is-the-name.github.io/saramin-job-search/
 
 ## 개요
 
